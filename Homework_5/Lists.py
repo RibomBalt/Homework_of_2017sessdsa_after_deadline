@@ -68,6 +68,22 @@ class unorderedList(object):
         except:
             raise IndexError
 
+    def __setitem__ (self, index, data):
+        '''
+        对某个位置元素进行赋值。若没有，则抛出异常
+        :param index: 
+        :param data:
+        :return: 该位置的元素
+        '''
+        try:
+            assert index >= 0
+            node = self.head
+            for i in range(index):
+                node = node.next
+            node.data = data
+        except:
+            raise IndexError
+
     def __str__ (self):
         '''
         返回列表的字符串表示形式。（因为已经iter了，可以直接遍历）
