@@ -186,7 +186,7 @@ class unorderedList(object):
             # 遍历，当不空时
             while node is not None:
                 # 若找到了，则返回序数，否则加1
-                if node.data is data:
+                if node.data == data:
                     return i
                 else:
                     i += 1
