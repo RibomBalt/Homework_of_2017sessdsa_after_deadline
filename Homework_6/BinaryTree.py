@@ -117,9 +117,12 @@ def main ():
     aturtle = Turtle()
     # 调整初始方位，图标
     aturtle.seth(90)
+    # 隐藏一下
+    aturtle.ht()
     aturtle.up()
     aturtle.goto((0, -300))
     aturtle.down()
+    aturtle.st()
     # 设定图标，背景……
     bgpic('SMG-goodbgpic.png')
     icon_star(10, 'star')
@@ -133,9 +136,15 @@ def main ():
         colors[0]
     )
     drawTree(*initial)
+    # 藏起来，以方便截图
+    aturtle.ht()
     print('树的遍历结束了！请即刻截图，点击屏幕结束')
     screen.exitonclick()
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Terminator:
+        # 说明用户提前终止
+        print('星星树程序已关闭')
