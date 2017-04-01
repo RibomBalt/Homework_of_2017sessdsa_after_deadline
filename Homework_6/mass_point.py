@@ -1,7 +1,7 @@
 import turtle
 
 # 单位时间
-dt = 1e-3
+dt = 0.1
 totalTime = 0
 
 
@@ -59,7 +59,7 @@ class mass():
         '''
         self.site = self.site + (self.v * dt)
         for force in self.f:
-            self.v = self.v + (force / self.m)
+            self.v = self.v + (force / self.m) * dt
             force.update()
         return True
 
@@ -88,7 +88,7 @@ class NearEarthGravity(Force):
     '''
     重力类
     '''
-    g = 200000
+    g = 9.8
 
     def __init__ (self):
         Force.__init__(self, Vector((0, -self.g)))
@@ -99,6 +99,7 @@ class NearEarthGravity(Force):
 
 if __name__ == '__main__':
     aturtle = turtle.Turtle()
-    m = mass('ball', 10, (0, 0), (2000, 0), [NearEarthGravity()])
-    for i in range(100000):
+    m = mass('ball', 10, (0, 0), (5, 0), [NearEarthGravity()])
+    for i in range(100):
         m.move_turtle(aturtle)
+    print(aturtle.position())
