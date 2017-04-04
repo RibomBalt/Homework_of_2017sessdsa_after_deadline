@@ -2,8 +2,8 @@ import os
 import zipfile
 
 # TODO 函数化，取消固定字符串
-f = zipfile.ZipFile('杨帆-第六次作业-1600012427.zip', 'w', zipfile.ZIP_DEFLATED)
-directory = 'Homework_6'
+f = zipfile.ZipFile('杨帆-第七次作业-1600012427.zip', 'w', zipfile.ZIP_DEFLATED)
+directory = 'Homework_7'
 l = os.listdir(directory)
 # TODO 用栈改造之
 for file in l:
@@ -12,3 +12,4 @@ for file in l:
     else:
         f.write(directory + '/' + file)
 f.close()
+

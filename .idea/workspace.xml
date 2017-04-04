@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbfc6416-9649-47bc-97ef-e27a4a625bd3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dozip.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework_6/HibertCurve.py" afterPath="$PROJECT_DIR$/Homewoek_7/HibertCurve.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework_6/mass_point.py" afterPath="$PROJECT_DIR$/Homewoek_7/mass_point.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework_6/turtleByKey.py" afterPath="$PROJECT_DIR$/Homewoek_7/turtleByKey.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework_7/PascalTriangle.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Homewoek_7/HibertCurve.py" afterPath="$PROJECT_DIR$/Homework_7/HibertCurve.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Homewoek_7/__init__.py" afterPath="$PROJECT_DIR$/Homework_7/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Homewoek_7/mass_point.py" afterPath="$PROJECT_DIR$/mass_point.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Homewoek_7/turtleByKey.py" afterPath="$PROJECT_DIR$/turtleByKey.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/杨帆-第五次作业-1600012427.zip" afterPath="$PROJECT_DIR$/杨帆-第五次作业-1600012427.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Homework_6/BinaryTree.py" afterPath="$PROJECT_DIR$/Homework_6/BinaryTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Homework_5/duetUnorderedList.py" afterPath="$PROJECT_DIR$/Homework_5/duetUnorderedList.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dozip.py" afterPath="$PROJECT_DIR$/dozip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <ignored path="C:\Users\Cobalt-YangFan\PycharmProjects\Homework\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +27,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HibertCurve.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homewoek_7/HibertCurve.py">
+      <file leaf-file-name="HibertCurve.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework_7/HibertCurve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="251">
+              <caret line="101" column="4" lean-forward="true" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+              <folding>
+                <element signature="e#25#45#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,8 +42,8 @@
       <file leaf-file-name="BinaryTree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework_6/BinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="138" column="15" lean-forward="false" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#65#78#0" expanded="true" />
               </folding>
@@ -45,13 +51,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dozip.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dozip.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dozip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="285">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,6 +80,7 @@
       <find>list(</find>
       <find>pop</find>
       <find>index</find>
+      <find>__str</find>
     </findStrings>
     <replaceStrings>
       <replace>vector</replace>
@@ -109,11 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_homework/1.3.py" />
-        <option value="$PROJECT_DIR$/1_homework/1.9.py" />
-        <option value="$PROJECT_DIR$/1_homework/1.10.py" />
-        <option value="$PROJECT_DIR$/Homework_1Plus/1+.4.py" />
-        <option value="$PROJECT_DIR$/Homework_1Plus/1+.5.py" />
         <option value="$PROJECT_DIR$/Homework_1Plus/1+.6.py" />
         <option value="$PROJECT_DIR$/Homework_1Plus/1+.7.py" />
         <option value="$PROJECT_DIR$/Homework_1Plus/1+.8.py" />
@@ -126,7 +128,6 @@
         <option value="$PROJECT_DIR$/Homework_3/testTime.py" />
         <option value="$PROJECT_DIR$/../Python-Worms/Catofes-Worm.py" />
         <option value="$PROJECT_DIR$/Homework_3/timer.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Homework_3/cdll_test.py" />
         <option value="$PROJECT_DIR$/Homework_3/3.1.py" />
         <option value="$PROJECT_DIR$/Homework_3/3.2.py" />
@@ -154,19 +155,26 @@
         <option value="$PROJECT_DIR$/Homework_6/turtleTest.py" />
         <option value="$PROJECT_DIR$/Homework_6/HibertCurve.py" />
         <option value="$PROJECT_DIR$/Homework_5/Lists.py" />
-        <option value="$PROJECT_DIR$/Homework_5/duetUnorderedList.py" />
         <option value="$PROJECT_DIR$/Homework_6/turtleByKey.py" />
         <option value="$PROJECT_DIR$/Homework_6/turtleBrain.py" />
         <option value="$PROJECT_DIR$/Homework_6/mass_point.py" />
-        <option value="$PROJECT_DIR$/dozip.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wxid_3rf5xp09hapj22/Attachment/UnorderedList方法.py" />
+        <option value="$USER_HOME$/Documents/WeChat Files/wxid_3rf5xp09hapj22/Attachment/OrderedList.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Homework_6/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/Homewoek_7/PascalTriangle.py" />
+        <option value="$PROJECT_DIR$/Homewoek_7/HibertCurve.py" />
+        <option value="$PROJECT_DIR$/Homework_5/duetUnorderedList.py" />
+        <option value="$PROJECT_DIR$/dozip.py" />
+        <option value="$PROJECT_DIR$/Homework_7/HibertCurve.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1370" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -218,7 +226,47 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="C:">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Cobalt-YangFan">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="PycharmProjects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Homework">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Homework">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Homework_7">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -246,7 +294,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Homewoek_7">
+            <PATH_ELEMENT USER_OBJECT="Homework_5">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -421,8 +469,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Cobalt-YangFan\PycharmProjects\Homework\Homewoek_7" />
       <recent name="C:\Users\Cobalt-YangFan\PycharmProjects\Homework" />
+      <recent name="C:\Users\Cobalt-YangFan\PycharmProjects\Homework\Homewoek_7" />
       <recent name="C:\Users\Cobalt-YangFan\PycharmProjects\Homework\Homework_3" />
     </key>
   </component>
@@ -438,43 +486,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dozip">
-    <configuration default="false" name="Calc_Expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Homework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_4/Calc_Expression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="turtleByKey" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Homework" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cobalt-YangFan\PycharmProjects\Homework\Homewoek_7\turtleByKey.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.HibertCurve (1)">
     <configuration default="false" name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -493,19 +505,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mass_point" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="HibertCurve" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homewoek_7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Homework" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cobalt-YangFan\PycharmProjects\Homework\Homewoek_7\mass_point.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homewoek_7/HibertCurve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PascalTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homewoek_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Homework" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homewoek_7/PascalTriangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -524,6 +554,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Homework" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dozip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HibertCurve (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Homework" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_7/HibertCurve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -627,19 +675,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Calc_Expression" />
-      <item index="1" class="java.lang.String" itemvalue="Python.turtleByKey" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mass_point" />
-      <item index="4" class="java.lang.String" itemvalue="Python.dozip" />
+      <item index="0" class="java.lang.String" itemvalue="Python.BinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.HibertCurve" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PascalTriangle" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dozip" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HibertCurve (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.dozip" />
+        <item index="0" class="java.lang.String" itemvalue="Python.HibertCurve (1)" />
         <item index="1" class="java.lang.String" itemvalue="Python.BinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mass_point" />
-        <item index="3" class="java.lang.String" itemvalue="Python.turtleByKey" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Calc_Expression" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dozip" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PascalTriangle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.HibertCurve" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -732,7 +780,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491041487304</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2017sessdsa&#10;&#10;第五次作业。以后只在deadline之后放作业。">
+      <created>1491044846881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1491044846881</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -777,25 +832,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14697194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2306003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32663316" sideWeight="0.4911374" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30988276" sideWeight="0.55317575" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30858085" sideWeight="0.5732064" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30858085" sideWeight="0.42679355" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07590759" sideWeight="0.49121523" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63712376" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30988276" sideWeight="0.44682422" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43383583" sideWeight="0.67134416" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43383583" sideWeight="0.6986706" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -823,7 +879,7 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Homewoek_7/mass_point.py</url>
+          <url>file://$PROJECT_DIR$/mass_point.py</url>
           <line>66</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
@@ -833,90 +889,11 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/homework_2/2.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_2/2.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_2/2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_3/testTime.py" />
-    <entry file="file://$PROJECT_DIR$/../Python-Worms/Catofes-Worm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework_2/2.4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_homework/1.9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Python-3.4/Python-3.4.4/Lib/test/test_importlib/builtin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1442825926/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <caret line="3523" column="7" lean-forward="true" selection-start-line="3523" selection-start-column="7" selection-end-line="3523" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Python-3.4/Python-3.4.4/Lib/test/test_importlib/builtin/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Python-3.4/Python-3.4.4/Lib/test/test_importlib/builtin/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_3/cdll_test.py" />
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python34/Lib/random.py" />
     <entry file="file://$PROJECT_DIR$/Homework_3/timer.py" />
     <entry file="file://$PROJECT_DIR$/Homework_3/3.2.py">
@@ -1065,7 +1042,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homewoek_7/turtleByKey.py">
+    <entry file="file://$PROJECT_DIR$/turtleByKey.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
@@ -1076,11 +1053,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-838">
           <caret line="5298" column="6" lean-forward="false" selection-start-line="5298" selection-start-column="6" selection-end-line="5298" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homewoek_7/mass_point.py">
+    <entry file="file://$PROJECT_DIR$/mass_point.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="59" column="42" lean-forward="false" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
@@ -1088,39 +1064,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_5/duetUnorderedList.py">
+    <entry file="file://$PROJECT_DIR$/Homework_6/turtleBrain.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="181" column="28" lean-forward="false" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_5/Lists.py">
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_3rf5xp09hapj22/Attachment/UnorderedList方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="188" column="31" lean-forward="false" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="-1026">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_5/LinkedStackandQueue.py">
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_3rf5xp09hapj22/Attachment/栈和队列通过链表实现.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="100" column="19" lean-forward="false" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="-248">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_3rf5xp09hapj22/Attachment/双端无序队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        <state relative-caret-position="-14588">
+          <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/turtle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-808">
+          <caret line="1291" column="0" lean-forward="false" selection-start-line="1291" selection-start-column="0" selection-end-line="1291" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_3rf5xp09hapj22/Attachment/OrderedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="57" column="3" lean-forward="false" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pi3/RPi.GPIO-0.6.3/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pi3/RPi.GPIO-0.6.3/RPi/GPIO/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_7/PascalTriangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_6/turtleBrain.py">
+    <entry file="file://$PROJECT_DIR$/Homework_5/LinkedStackandQueue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1128,38 +1151,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/turtle.py">
+    <entry file="file://$PROJECT_DIR$/Homework_5/duetUnorderedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="2215" column="0" lean-forward="false" selection-start-line="2215" selection-start-column="0" selection-end-line="2215" selection-end-column="0" />
+        <state relative-caret-position="212">
+          <caret line="52" column="38" lean-forward="false" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homewoek_7/HibertCurve.py">
+    <entry file="file://$PROJECT_DIR$/Homework_5/Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="190">
+          <caret line="282" column="19" lean-forward="true" selection-start-line="282" selection-start-column="19" selection-end-line="282" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/RPi/GPIO/definitions/PWM/PWM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/RPi/GPIO/definitions/PWM/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/RPi/GPIO/definitions/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/RPi/GPIO/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dozip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework_6/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="138" column="15" lean-forward="false" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#65#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dozip.py">
+    <entry file="file://$PROJECT_DIR$/Homework_7/HibertCurve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="251">
+          <caret line="101" column="4" lean-forward="true" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#25#45#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -50,7 +50,7 @@ class duetUnorderedList():
         返回字符串表示形式
         :return: 
         '''
-        return list(self._iter())
+        return str(list(self._iter()))
 
     def __getitem__ (self, index):
         '''
