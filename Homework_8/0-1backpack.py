@@ -29,7 +29,7 @@ class specialDict(dict):
         return dict.__getitem__(self, item)
 
 
-def backpackproblem (treasureDict: list, capacity: int, cacheList: specialDict):
+def backpackproblem (treasureDict: list, capacity: int, cacheList: specialDict = specialDict()):
     '''
     解决01背包问题，输出该问题的最优解。动态规划思路，不含重复元素
     :param treasureDict: 剩余宝物列表
@@ -51,19 +51,19 @@ def backpackproblem (treasureDict: list, capacity: int, cacheList: specialDict):
                 cacheList[(c, num + 1)] = last
             else:
                 # 新元素比容量小，单独考虑选择了新元素的情况
-                new = treasureDict[num]['v'] + cacheList[(c - treasureDict[num]['w'], num - 1)][1]
+                new = treasureDict[num]['v'] + cacheList[(c - treasureDict[num]['w'], num)][1]
                 if new <= last[1]:
                     cacheList[(c, num + 1)] = last
                 else:
                     # 选择新元素的更大，进行存储
                     # 第一个元素添加一个num+1序号
-                    cacheList[(c, num + 1)] = (cacheList[(c - treasureDict[num]['w'], num - 1)][0] +
+                    cacheList[(c, num + 1)] = (cacheList[(c - treasureDict[num]['w'], num)][0] +
                                                (num,), new)
 
     return cacheList[capacity, len(treasureDict)]
 
 
 if __name__ == '__main__':
-    import doctest
-
-    doctest.testmod()
+    print(
+        backpackproblem([{'w': 2, 'v': 3}, {'w': 3, 'v': 4}, {'w': 4, 'v': 8}, {'w': 5, 'v': 8}, {'w': 9, 'v': 10}],
+                        20))

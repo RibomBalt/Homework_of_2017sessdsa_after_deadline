@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbfc6416-9649-47bc-97ef-e27a4a625bd3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework_8/minWordDistance.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Homework_8/0-1backpack.py" afterPath="$PROJECT_DIR$/Homework_8/0-1backpack.py" />
     </list>
@@ -22,18 +23,8 @@
       <file leaf-file-name="HibertCurve.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework_7/HibertCurve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2090">
+            <state relative-caret-position="301">
               <caret line="110" column="35" lean-forward="false" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework_5/Lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,8 +33,18 @@
       <file leaf-file-name="0-1backpack.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework_8/0-1backpack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+            <state relative-caret-position="351">
+              <caret line="67" column="27" lean-forward="false" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minWordDistance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework_8/minWordDistance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -102,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework_1Plus/1+.7.py" />
         <option value="$PROJECT_DIR$/Homework_1Plus/1+.8.py" />
         <option value="$PROJECT_DIR$/Homework_1Plus/1+.10.py" />
         <option value="$PROJECT_DIR$/Homework_1Plus/1+.1.py" />
@@ -152,14 +152,16 @@
         <option value="$PROJECT_DIR$/Homework_5/duetUnorderedList.py" />
         <option value="$PROJECT_DIR$/dozip.py" />
         <option value="$PROJECT_DIR$/Homework_7/HibertCurve.py" />
+        <option value="$PROJECT_DIR$/Homework_8/minWordDistance.py" />
         <option value="$PROJECT_DIR$/Homework_8/0-1backpack.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -205,34 +207,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Homework">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Homework">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Homework_8">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -389,6 +363,34 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Homework">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Homework">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Homework_8">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,42 +420,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.0-1backpack">
-    <configuration default="false" name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Homework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_6/BinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PascalTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homewoek_7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Homework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homewoek_7/PascalTriangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="dozip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -503,6 +469,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Homework" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_8/0-1backpack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Doctest minWordDistance" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Homework" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_8/minWordDistance.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="minWordDistance" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="minWordDistance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cobalt-YangFan\AppData\Local\Programs\Python\Python35\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Homework" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_8/minWordDistance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -606,19 +609,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.BinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PascalTriangle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dozip" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HibertCurve (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.0-1backpack" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dozip" />
+      <item index="1" class="java.lang.String" itemvalue="Python.HibertCurve (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.0-1backpack" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Doctest minWordDistance" />
+      <item index="4" class="java.lang.String" itemvalue="Python.minWordDistance" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.0-1backpack" />
-        <item index="1" class="java.lang.String" itemvalue="Python.HibertCurve (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dozip" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PascalTriangle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.minWordDistance" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Doctest minWordDistance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.HibertCurve (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dozip" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -732,39 +735,46 @@
       <option name="project" value="LOCAL" />
       <updated>1491385901410</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2017sessdsa&#10;&#10;第八次作业。以后只在deadline之后放作业。">
+      <created>1491492720241</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1491492720241</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctest_calc_Expression - 2017.03.27 at 14h 25m 37s.xml">
-      <configuration name="Doctest calc_Expression" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 55m 57s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 41m 22s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 56m 39s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 41m 37s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 57m 13s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 45m 52s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 57m 15s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 45m 53s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 57m 16s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 50m 09s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 57m 18s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 52m 26s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 57m 22s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 52m 51s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 57m 23s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_html_match - 2017.03.23 at 14h 52m 55s.xml">
-      <configuration name="Doctest html_match" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 58m 24s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
-    <history-entry file="Doctest_radix_sort - 2017.03.22 at 17h 53m 10s.xml">
-      <configuration name="Doctest radix_sort" configurationId="tests" />
+    <history-entry file="Doctest_minWordDistance - 2017.04.10 at 17h 58m 27s.xml">
+      <configuration name="Doctest minWordDistance" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="4">
@@ -777,18 +787,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.045521293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2035139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32663316" sideWeight="0.4911374" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34170854" sideWeight="0.57782674" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34170854" sideWeight="0.42217326" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23762377" sideWeight="0.36969253" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23762377" sideWeight="0.6303075" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07590759" sideWeight="0.49121523" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63712376" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43383583" sideWeight="0.67134416" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43234324" sideWeight="0.6603221" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -836,12 +846,11 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="45" />
+      <option name="time" value="48" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework_3/timer.py" />
     <entry file="file://$PROJECT_DIR$/Homework_3/3.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1142,19 +1151,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dozip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="114">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_7/HibertCurve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2090">
-          <caret line="110" column="35" lean-forward="false" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,10 +1167,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_7/HibertCurve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="110" column="35" lean-forward="false" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_8/minWordDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework_8/0-1backpack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        <state relative-caret-position="351">
+          <caret line="67" column="27" lean-forward="false" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
           <folding />
         </state>
       </provider>
